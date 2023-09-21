@@ -1,8 +1,8 @@
-Hi there :wave:
+<h1>Hi there :wave:</h1>
 
-:boy: My name is Timéo, I'm a Belgian student, studying computer science 
+<p>:boy: My name is Timéo, I'm a Belgian student, studying computer science </p>
 
-:hourglass: I'm currently learning Python, Html, Css, Pascal (yes) and I'm here to learn more...
+<p>:hourglass: I'm currently learning Python, Html, Css, Pascal (yes) and I'm here to learn more...</p>
 
 # project
 
