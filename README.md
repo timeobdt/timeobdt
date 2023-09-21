@@ -4,6 +4,9 @@
 
 <p>:hourglass: I'm currently learning Python, Html, Css, Pascal (yes) and I'm here to learn more...</p>
 
+![Sans titre-1](https://github.com/timeobdt/timeobdt/assets/136178363/db620608-1f7f-4a0c-85ea-59dcefd2ccbe)
+
+
 # project
 
 ## <p align="center">[DVD Waiting screen](https://github.com/timeobdt/dvd-wainting-screen)</p>
