@@ -12,7 +12,8 @@
 ![dvd_example](https://github.com/timeobdt/timeobdt/assets/136178363/c1e58d06-a7e8-41b9-b8ea-685bd437cdf5)
 
 ## <p align="center">[Pong (in development)](https://github.com/timeobdt/PyPong)</p>
-![image](https://github.com/timeobdt/timeobdt/assets/136178363/5b3085dd-6bf9-4781-803b-ea309f07cd81)
+![Animation](https://github.com/timeobdt/timeobdt/assets/136178363/65e0ce73-0991-4e78-870d-b1248839f5f6)
+
 
 
 
