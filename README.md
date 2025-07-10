@@ -2,9 +2,7 @@
 
 <p>:boy: My name is Timéo, I'm a Belgian student, studying computer science </p>
 
-<p>:hourglass: I'm currently learning Python, Html, Css, Pascal (yes) and I'm here to learn more...</p>
-
-![Sans titre-1](https://github.com/timeobdt/timeobdt/assets/136178363/a71d7931-601e-4039-926c-d42b4d66d500)
+<p>Basic formation : python, html, css, js, sql, (delphi) pascal.</p>
 
 # project
 
